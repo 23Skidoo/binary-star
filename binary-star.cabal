@@ -1,12 +1,13 @@
 name:                binary-star
 version:             0.1
-synopsis:            Pickler combinators built on top of Data.Binary.
+synopsis:            Pickler combinators on top of Data.Binary.
 description:         Efficient implementation of Andrew Kennedy's pickler combinators on top of Data.Binary.
 category:            Data, Parsing
 license:             BSD3
 license-file:        LICENSE
 author:              Mikhail Glushenkov
 maintainer:          the.dead.shall.rise@gmail.com
+homepage:            http://github.com/23Skidoo/binary-star/
 stability:           provisional
 build-type:          Simple
 build-Depends:       base
